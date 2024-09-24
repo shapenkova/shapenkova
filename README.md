@@ -34,7 +34,7 @@
 
 ### 👨‍🎓 Образование:
 
-|[<img src="./images/stepik-certificate-2223-0d7c368.jpg" width="208px" alt="»">]|
+|[<img src="./img/Frontend.jpg" width="208px" alt="">]|
 
 
 
