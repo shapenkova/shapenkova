@@ -1,6 +1,7 @@
 ## 
 <h2 align="center">Меня зовут Анастасия, я Frontend-разработчик</h2>
 <p align="center"><img src="./img/main.gif" width="600" height="300"/></p>
+<iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6"></a></p>
 
 ### 👩‍💻 Обо мне:
 Мне нравится создавать удобные и интерактивные веб-сайты.
