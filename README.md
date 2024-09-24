@@ -36,15 +36,15 @@
 
 |[<img src="./img/Frontend.jpg" width="208px" alt="Сертификат об окончании курса «Frontend-разработчик на HTML, CSS, JS»">](https://stepik.org/cert/1636481)|[<img src="./img/JS-Advanced.jpg" width="208px" alt="Сертификат об окончании курса «JavaScript Advanced - продвинутые концепции языка и ООП»">](https://stepik.org/cert/2567162)|[<img src="./img/JS-С-нуля.jpg" width="208px" alt="Сертификат об окончании курса «JavaScript с нуля — основы языка и практика для начинающих»">](https://stepik.org/cert/2539696)|[<img src="./img/JavaScript.jpg" width="208px" alt="Сертификат об окончании курса «JavaScript для начинающих»">](https://stepik.org/cert/1732119)
 |:----:|:----:|:----:|:----:|
-|[<img src="./img/Web-технологии.jpg" width="300px" alt="Сертификат об окончании курса «Web-технологии.">](https://stepik.org/cert/1541396)|[<img src="./img/Веб-разработка.jpg" width="208px" alt="Сертификат об окончании курса «Web-разработка»">](https://stepik.org/cert/1396591)|[<img src="./img/Погружение-в-JS.jpg" width="208px" alt="Сертификат об окончании курса «Погружение в JavaScript»">](https://stepik.org/cert/2516355)|
+|[<img src="./img/Web-технологии.jpg" width="208px" alt="Сертификат об окончании курса «Web-технологии.">](https://stepik.org/cert/1541396)|[<img src="./img/Веб-разработка.jpg" width="208px" alt="Сертификат об окончании курса «Web-разработка»">](https://stepik.org/cert/1396591)|[<img src="./img/Погружение-в-JS.jpg" width="208px" alt="Сертификат об окончании курса «Погружение в JavaScript»">](https://stepik.org/cert/2516355)|
 
 ---
 
 ### Мои работы:
 
-|<img src="./img/Сайт-Collection.jpeg" width="208px" alt="Сайт-Collection страница-1»">|<img src="./img/Сайт-Collection2.jpeg" width="208px" alt="Сайт-Collection2 страница-2">|<img src="./img/Сайт-Collection3.jpeg" width="208px" alt="Сайт-Collection3 страница 3">|<img src="./img/Сайт-Collection4.jpeg" width="208px" alt="Сайт-Collection4.jpeg страница 4">|
+|<img src="./img/Сайт-Collection.jpeg" width="208px" align="start" alt="Сайт-Collection страница-1»">|<img src="./img/Сайт-Collection2.jpeg" width="208px" align="start" alt="Сайт-Collection2 страница-2">|<img src="./img/Сайт-Collection3.jpeg" width="208px" align="start" alt="Сайт-Collection3 страница 3">|<img src="./img/Сайт-Collection4.jpeg" align="start" width="208px" alt="Сайт-Collection4.jpeg страница 4">|
 |:----:|:----:|:----:|:----:|
-|<img src="./img/Сайт-Lenni.jpeg"  width="208px" alt="Сайт-Lenni страница-1»">|<img src="./img/Сайт-Lenni3.jpeg" width="208px" alt="Сайт-Lenni страница 3">| <img src="./img/Сайт-Lenni2.jpeg" width="208px" alt="Сайт-Lenni страница-2">
+|<img src="./img/Сайт-Lenni.jpeg" align="start" width="208px" alt="Сайт-Lenni страница-1»">|<img src="./img/Сайт-Lenni3.jpeg" align="start" width="208px" alt="Сайт-Lenni страница 3">| <img src="./img/Сайт-Lenni2.jpeg" width="208px" align="start" alt="Сайт-Lenni страница-2">
 
 
 
