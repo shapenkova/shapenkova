@@ -42,9 +42,12 @@
 
 ### Мои работы:
 
-|<img src="./img/Сайт-Collection.jpeg" width="208px" align="start" alt="Сайт-Collection страница-1»">|<img src="./img/Сайт-Collection2.jpeg" width="208px" align="start" alt="Сайт-Collection2 страница-2">|<img src="./img/Сайт-Collection3.jpeg" width="208px" align="start" alt="Сайт-Collection3 страница 3">|<img src="./img/Сайт-Collection4.jpeg" align="start" width="208px" alt="Сайт-Collection4.jpeg страница 4">|
-|:----:|:----:|:----:|:----:|
-|<img src="./img/Сайт-Lenni.jpeg" align="start" width="208px" alt="Сайт-Lenni страница-1»">|<img src="./img/Сайт-Lenni3.jpeg" align="start" width="208px" alt="Сайт-Lenni страница 3">| <img src="./img/Сайт-Lenni2.jpeg" width="208px" align="start" alt="Сайт-Lenni страница-2">
+<div align=flex-start>
+    |<img src="./img/Сайт-Collection.jpeg" width="208px" alt="Сайт-Collection страница-1»">|<img src="./img/Сайт-Collection2.jpeg" width="208px" alt="Сайт-Collection2 страница-2">|<img src="./img/Сайт-Collection3.jpeg" width="208px" alt="Сайт-Collection3 страница 3">|<img src="./img/Сайт-Collection4.jpeg" width="208px" alt="Сайт-Collection4.jpeg страница 4">|
+  |:----:|:----:|:----:|:----:|
+  |<img src="./img/Сайт-Lenni.jpeg" width="208px" alt="Сайт-Lenni страница-1»">|<img src="./img/Сайт-Lenni3.jpeg" width="208px" alt="Сайт-Lenni страница 3">| <img src="./img/Сайт-Lenni2.jpeg" width="208px" alt="Сайт-Lenni страница-2">
+</div>
+
 
 
 
