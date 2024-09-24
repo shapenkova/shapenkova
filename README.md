@@ -38,7 +38,11 @@
 |:----:|:----:|:----:|:----:|
 |[<img src="./img/Web-технологии.jpg" width="208px" alt="Сертификат об окончании курса «Web-технологии.">](https://stepik.org/cert/1541396)|[<img src="./img/Веб-разработка.jpg" width="208px" alt="Сертификат об окончании курса «Web-разработка»">](https://stepik.org/cert/1396591)|[<img src="./img/Погружение-в-JS.jpg" width="208px" alt="Сертификат об окончании курса «Погружение в JavaScript»">](https://stepik.org/cert/2516355)|
 
+---
 
+### Мои работы:
+
+|[<img src="./img/Сайт-Collection.jpeg" width="208px" alt="Сайт-Collection страница-1»">]|[<img src="./img/Сайт-Collection2.jpeg" width="208px" alt="Сайт-Collection2 страница-2">]|[<img src="./img/Сайт-Collection3.jpeg.jpg" width="208px" alt="Сайт-Collection3 страница 3">]|[<img src="./img/Сайт-Collection4.jpeg" width="208px" alt="Сайт-Collection4.jpeg страница 4">]
 
 
 
