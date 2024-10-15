@@ -31,6 +31,9 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapenkova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 👨‍🎓 Образование:
@@ -47,15 +50,6 @@
 |:----:|:----:|:----:|:----:|
 |<img src="./img/Сайт-Lenni.jpeg" width="208px" alt="Сайт-Lenni страница-1»">|<img src="./img/Сайт-Lenni3.jpeg" width="208px" alt="Сайт-Lenni страница 3">| <img src="./img/Сайт-Lenni2.jpeg" width="208px" alt="Сайт-Lenni страница-2">
 
-### Моя статистика:
-
-<div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shapenkova&theme=dark" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shapenkova&theme=dark" alt=""/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shapenkova&theme=dark" alt=""/>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapenkova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
