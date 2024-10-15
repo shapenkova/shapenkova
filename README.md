@@ -47,6 +47,15 @@
 |:----:|:----:|:----:|:----:|
 |<img src="./img/Сайт-Lenni.jpeg" width="208px" alt="Сайт-Lenni страница-1»">|<img src="./img/Сайт-Lenni3.jpeg" width="208px" alt="Сайт-Lenni страница 3">| <img src="./img/Сайт-Lenni2.jpeg" width="208px" alt="Сайт-Lenni страница-2">
 
+### Моя статистика:
+
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shapenkova&theme=dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shapenkova&theme=dark" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shapenkova&theme=dark" alt=""/>
+</div>
+
+
 
 
 
