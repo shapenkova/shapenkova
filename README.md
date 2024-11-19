@@ -18,7 +18,7 @@
 - Развивать навыки в современных технологиях и фреймворках.
 
 ### Связаться со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastya_shapenkova)
+![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastya_shapenkova)
 
 ---
 
@@ -32,6 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
 
+![shapenkova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shapenkova&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapenkova&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
