@@ -23,9 +23,8 @@
 ---
 
 ### 🛠 Языки и Технологии:
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
