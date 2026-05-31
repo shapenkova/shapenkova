@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapenkova&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapenkova&layout=compact&theme=vue-dark&hide_border=true)
 ---
 
 ### 👨‍🎓 Образование:
