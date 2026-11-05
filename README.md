@@ -14,6 +14,7 @@
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastya_shapenkova)
+[![Yandex Mail](https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg)](mailto:wondernastyа@yandex.ru)
 
 ###
 
