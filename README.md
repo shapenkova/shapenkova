@@ -1,39 +1,49 @@
 ## 
-<h2 align="center">Меня зовут Анастасия, я Frontend-разработчик</h2>
+<h1 align="center">Привет👋 Меня зовут Анастасия!</h1>
 
+###
+<h3 align="left">👩‍💻  Обо мне</h3>
 
-### 👩‍💻 Обо мне:
-Мне нравится создавать удобные и интерактивные веб-сайты.
+###
 
-Я готова к новым вызовам и стремлюсь улучшать свои навыки, чтобы создавать качественные и функциональные решения для пользователей.
+<p align="left">
+  Мой путь в разработку начался с обучения в ТУСУР, где я защитила диплом Frontend-разработчика. Продолжаю учиться: прохожу курсы по программированию и вёрстке и применяю знания на практике. Верстаю адаптивные интерфейсы на HTML, CSS и JavaScript, использую Tailwind CSS и Gulp, работаю с Git. Есть практический опыт с Vue 3 и Nuxt. Стремлюсь писать чистый и поддерживаемый код и постоянно развиваюсь в современных технологиях.
+</p>
 
-Защитила диплом [Frontend-разработчика](https://tusur-courses.ru/catalog/programmirovanie/frontend) в ТУСУР ("Томский государственный университет систем управления и радиоэлектроники"). Ежедневно практикуюсь в программировании, создаю проекты, изучаю JavaScript и фреймворки (React, Vue).
-
-🎯 **Мои цели**:
-
-- Писать чистый и поддерживаемый код;
-- Работать в команде с увлеченными коллегами, разделяющими схожие ценности;
-- Участвовать в интересных и значимых проектах;
-- Вносить вклад в успех компании;
-- Развивать навыки в современных технологиях и фреймворках.
+###
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastya_shapenkova)
 
----
+###
 
-### 🛠 Языки и Технологии:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
-![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+<h3 align="left">🛠 Технологии:</h3>
 
----
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxt"  />
+</div>
 
-### 👨‍🎓 Образование:
-
-|[<img src="./img/Frontend.jpg" width="208px" alt="Сертификат об окончании курса «Frontend-разработчик на HTML, CSS, JS»">](https://stepik.org/cert/1636481)|[<img src="./img/JS-Advanced.jpg" width="208px" alt="Сертификат об окончании курса «JavaScript Advanced - продвинутые концепции языка и ООП»">](https://stepik.org/cert/2567162)|[<img src="./img/JS-С-нуля.jpg" width="208px" alt="Сертификат об окончании курса «JavaScript с нуля — основы языка и практика для начинающих»">](https://stepik.org/cert/2539696)|[<img src="./img/JavaScript.jpg" width="208px" alt="Сертификат об окончании курса «JavaScript для начинающих»">](https://stepik.org/cert/1732119)
-|:----:|:----:|:----:|:----:|
-|[<img src="./img/Web-технологии.jpg" width="208px" alt="Сертификат об окончании курса «Web-технологии.">](https://stepik.org/cert/1541396)|[<img src="./img/Веб-разработка.jpg" width="208px" alt="Сертификат об окончании курса «Web-разработка»">](https://stepik.org/cert/1396591)|[<img src="./img/Погружение-в-JS.jpg" width="208px" alt="Сертификат об окончании курса «Погружение в JavaScript»">](https://stepik.org/cert/2516355)|
+###
